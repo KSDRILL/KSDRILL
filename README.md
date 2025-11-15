@@ -1,5 +1,8 @@
 # Hi, I'm Maluleke Kurhula Success 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=KSDRILL&color=blue&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/KSDRILL?label=Followers&style=flat-square)
+
 I'm a **Full-Stack Developer** passionate about building modern web applications.  
 Currently learning and growing my skills in both **frontend and backend technologies**.  
 Open to **real-world project collaborations** and **mentoring sessions** to gain new skills.
@@ -86,6 +89,6 @@ It's funny how I have ideas for **real-world projects that could make a huge imp
 
 ## 📫 Connect with Me
 
-[LinkedIn](https://za.linkedin.com/in/kurhula-success-maluleke-32153231a) |  
-📞 WhatsApp / Phone: 0640708649 |  
-✉️ Email: [kurhula04s@gmail.com](mailto:kurhula04s@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://za.linkedin.com/in/kurhula-success-maluleke-32153231a)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27640708649)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kurhula04s@gmail.com)
