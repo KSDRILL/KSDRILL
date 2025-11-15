@@ -37,16 +37,31 @@ Open to **real-world project collaborations** and **mentoring sessions** to gain
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### APIs
-REST, GraphQL, Authentication (OAuth, JWT)
+![REST](https://img.shields.io/badge/REST-61DAFB?style=for-the-badge&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### DevOps / Infrastructure
-Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), Cloud Platforms (AWS, GCP, Azure)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-FE5722?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Tooling
-Git, Testing Frameworks, Linters, Monitoring (Sentry, Prometheus)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing-6E40C9?style=for-the-badge&logo=pytest&logoColor=white)
+![Linters](https://img.shields.io/badge/Linters-ff69b4?style=for-the-badge)
+![Monitoring](https://img.shields.io/badge/Monitoring-1abc9c?style=for-the-badge)
 
 ### Soft Skills
-Communication, System Design Thinking, Debugging, Collaboration with Designers/PMs
+![Communication](https://img.shields.io/badge/Communication-0078D7?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-FF6F61?style=for-the-badge)
+![Debugging](https://img.shields.io/badge/Debugging-F7DF1E?style=for-the-badge)
+![Collaboration](https://img.shields.io/badge/Collaboration-34A853?style=for-the-badge)
 
 ---
 
@@ -74,19 +89,3 @@ It's funny how I have ideas for **real-world projects that could make a huge imp
 [LinkedIn](https://za.linkedin.com/in/kurhula-success-maluleke-32153231a) |  
 📞 WhatsApp / Phone: 0640708649 |  
 ✉️ Email: [kurhula04s@gmail.com](mailto:kurhula04s@gmail.com)
-## Hi there 👋
-
-<!--
-**KSDRILL/KSDRILL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
